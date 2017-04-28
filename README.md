@@ -10,4 +10,4 @@ bin  data 同级
 项目根目录下加载依赖并 npm run start
 
 ### 开启项目
-Public 静态资源下 加载依赖  npm run start 
+Public 静态资源下 加载依赖并  npm run start 
